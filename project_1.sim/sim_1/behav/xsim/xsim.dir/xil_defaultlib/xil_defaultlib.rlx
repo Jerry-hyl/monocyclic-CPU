@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/digital design/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/ALU.v,1639379164,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/Control_Unit.v,,ALU,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/Control_Unit.v,1639548732,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/Data_memory.v,,Control_Unit,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/Data_memory.v,1640306949,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/PC.v,,Data_memory,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/PC.v,1639463482,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/Regfile.v,,PC,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/Regfile.v,1640248907,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/choose_32.v,,Regfile,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/choose_32.v,1639375702,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/choose_5.v,,choose_32,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/choose_5.v,1639375416,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/instruction_memory.v,,choose_5,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/instruction_memory.v,1640237400,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/signextend.v,,instruction_memory,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/signextend.v,1639469554,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/top.v,,signextend,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/t_signextend.v,1641690790,verilog,,,,t_choose_5,,,,,,,,
+D:/digital design/project_1/project_1.srcs/sources_1/new/top.v,1639547911,verilog,,D:/digital design/project_1/project_1.srcs/sources_1/new/t_signextend.v,,top,,,,,,,,
