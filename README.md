@@ -43,7 +43,7 @@
 * `nop`指令：不进行任何的操作
 * `j`指令：跳转指令，即该指令的26位左移两位后所对应instruction_memory中地址的指令在下一个时钟周期进行执行
 
-![线路图 ](screenshot\线路图 .jpg)
+![线路图 ](screenshot\线路图.jpg)
 
 ## CPU功能实现说明
 
