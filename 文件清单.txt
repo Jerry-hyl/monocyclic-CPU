@@ -1,0 +1,9 @@
+1、Control Unit 核心中央控制单元
+2、ALU  负责计算中间结果
+3、Regfile
+4、Datamemory  
+5、instruction memory 负责将指令拆分为各个部分并储蓄
+6、PC 指令计数器
+7、符号\零扩展器
+8、5位数据选择器
+9、32位数据选择器
